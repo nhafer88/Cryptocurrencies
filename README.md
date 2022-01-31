@@ -12,7 +12,7 @@ The following methods were used for this analysis:
 
 #### Resources:
 - Cryptocurrency dataset: [crypto_data.csv](https://github.com/nhafer88/Cryptocurrencies/blob/main/Resources/crypto_data.csv), [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
-- Jupyter Notebook, Python and additional libraries: Pandas, Plotly, hvPlot,scikit-learn, and Imbalanced-learn 
+- Jupyter Notebook, Python and additional libraries: Pandas, Plotly, hvPlot, and scikit-learn 
 ## Results
 ### Preprocessing the Data for PCA
 - Updated the dataframe after completing prepocessing steps (seen in the image below).
